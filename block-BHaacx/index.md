@@ -1,5 +1,7 @@
 - Create a responsive layout according to the design shown below.
 
+
+<!-- ...... -->
 #### Large Screen view(Above 768px)
 
 ![CSS Grid Assignment II](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/css-grid/assignment-2/stimulus.png)
