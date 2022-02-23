@@ -4,6 +4,8 @@
 
 - Find the medium and small screen design in the assets folder.
 
+
+<!-- ..... -->
 - Chose your own images for the assignment.
 
 - Using CSS resets is necessary.
